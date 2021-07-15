@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DormAdministration/static/css/main.b794e7b3.chunk.css",
+    "main.js": "/DormAdministration/static/js/main.9a95b948.chunk.js",
+    "main.js.map": "/DormAdministration/static/js/main.9a95b948.chunk.js.map",
+    "runtime-main.js": "/DormAdministration/static/js/runtime-main.ab08cd38.js",
+    "runtime-main.js.map": "/DormAdministration/static/js/runtime-main.ab08cd38.js.map",
+    "static/js/2.819ddebd.chunk.js": "/DormAdministration/static/js/2.819ddebd.chunk.js",
+    "static/js/2.819ddebd.chunk.js.map": "/DormAdministration/static/js/2.819ddebd.chunk.js.map",
+    "static/js/3.0d772438.chunk.js": "/DormAdministration/static/js/3.0d772438.chunk.js",
+    "static/js/3.0d772438.chunk.js.map": "/DormAdministration/static/js/3.0d772438.chunk.js.map",
+    "index.html": "/DormAdministration/index.html",
+    "static/css/main.b794e7b3.chunk.css.map": "/DormAdministration/static/css/main.b794e7b3.chunk.css.map",
+    "static/js/2.819ddebd.chunk.js.LICENSE.txt": "/DormAdministration/static/js/2.819ddebd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab08cd38.js",
+    "static/js/2.819ddebd.chunk.js",
+    "static/css/main.b794e7b3.chunk.css",
+    "static/js/main.9a95b948.chunk.js"
+  ]
+}
