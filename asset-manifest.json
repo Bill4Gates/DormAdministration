@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DormAdministration/static/css/main.b794e7b3.chunk.css",
-    "main.js": "/DormAdministration/static/js/main.a46bf59f.chunk.js",
-    "main.js.map": "/DormAdministration/static/js/main.a46bf59f.chunk.js.map",
+    "main.js": "/DormAdministration/static/js/main.3c9649d7.chunk.js",
+    "main.js.map": "/DormAdministration/static/js/main.3c9649d7.chunk.js.map",
     "runtime-main.js": "/DormAdministration/static/js/runtime-main.ab08cd38.js",
     "runtime-main.js.map": "/DormAdministration/static/js/runtime-main.ab08cd38.js.map",
     "static/js/2.819ddebd.chunk.js": "/DormAdministration/static/js/2.819ddebd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ab08cd38.js",
     "static/js/2.819ddebd.chunk.js",
     "static/css/main.b794e7b3.chunk.css",
-    "static/js/main.a46bf59f.chunk.js"
+    "static/js/main.3c9649d7.chunk.js"
   ]
 }
